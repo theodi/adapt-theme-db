@@ -1,0 +1,24 @@
+{
+    "name": "adapt-theme-db",
+    "repository": "git@github.com:theodi/adapt-theme-db.git",
+    "framework": "^2.0.0",
+    "version": "0.4.1",
+    "homepage": "https://github.com/theodi/adapt-theme-db/",
+    "issues": "https://github.com/theodi/adapt-theme-db/issues",
+    "displayName": "Deutsche Bank",
+    "theme": "Deutsche Bank",
+    "description": "A custom theme for Deutsche Bank modules",
+    "main": "js/theme.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "licene": "GPLv3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
